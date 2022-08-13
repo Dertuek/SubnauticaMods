@@ -1,0 +1,11 @@
+{
+  "Id": "SignColorFix",
+  "DisplayName": "SignColorFix",
+  "Author": "Dertuek",
+  "Version": "1.0.0",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "SignColorFix.dll",
+  "EntryMethod": "SignColorFix.QMod.Patch",
+  "Config": {}
+}
